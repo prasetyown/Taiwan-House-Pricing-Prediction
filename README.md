@@ -1,0 +1,2 @@
+# Taiwan House Pricing Prediciton
+In this project, the aim is to predict house's pricing in Taiwan using historical data. The dataset contains features such as house age, distance to MRT station, number of convenience store, longitude, latitude, and the target is the price. I also did EDA in this project to find some insight. Finally, i used Random Forest Regressor as the algorithm to predict the price
